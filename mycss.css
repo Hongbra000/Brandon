@@ -6,7 +6,9 @@
   <link rel="stylesheet" href="mycss.css" type="text/css">
     <body bgcolor=red>
      <table width='100%' border=1px cellspacing=0>
- <caption>Table of Scores</caption>
+
+ <caption>Classes</caption>
+
  <tr>
      <th>Time</th>
      <th>Room</th>
