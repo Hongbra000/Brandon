@@ -1,4 +1,11 @@
-<table width='100%' border=1px cellspacing=0>
+
+<html>
+  <title>THE STATS</title>
+<h1>THE STATS</h1>
+  <head>
+  <link rel="stylesheet" href="mycss.css" type="text/css">
+    <body bgcolor=red>
+     <table width='100%' border=1px cellspacing=0>
  <caption>Table of Scores</caption>
  <tr>
      <th>Time</th>
