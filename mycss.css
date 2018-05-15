@@ -1,52 +1,14 @@
-<html>
-  <title>THE STATS</title>
-<h1>THE STATS</h1>
-  <head>
-  <link rel="stylesheet" href="mycss.css" type="text/css">
-    <body bgcolor=red>
-     <table width='100%' border=1px cellspacing=0>
-     
- <caption>Table of STATS</caption>
-       
- <tr>
-     <th>Age</th>
-     <th>Total Population</th>
-     <th>Event Dropout</th>
-     <th>Event Dropout Rate</th>
- </tr>
- <tr>
-     <td>15-16</td>
-     <td>3058</td>
-     <td>190</td>
-     <td>6.2</td>
- </tr>
- <tr>
-     <td>17</td>
-     <td>3684</td>
-     <td>120</td>
-     <td>3.3</td>
- </tr>
- <tr>
-     <td>18</td>
-     <td>2871</td>
-     <td>121</td>
-     <td>4.2</td>
- </tr>
- <tr>
-     <td>19</td>
-     <td>930</td>
-     <td>68</td>
-     <td>7.4</td>
- </tr>
- </table>
-  </head>
-  <body>
-    <h2>
-      <a href="index.html">Return to Home Page</a>
-    </h2>
-<hr>
-  </body>
-   
-</html>
+p {
+color:black;
+  font-family:Comic Sans MS;
+} 
+h1{
+  color:blie;
+  font-family:Comic Sans MS;
+}
+a:link {
+  background-color:green
+}
+
 
 
